@@ -1,0 +1,15 @@
+{
+  "name": "mqttbrokerwebsocket",
+  "version": "1.0.0",
+  "description": "MQTT Broker through WebSocket using Mosca.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"INFO: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Clément Tessier",
+  "license": "ISC",
+  "dependencies": {
+    "mosca": "^0.32.1"
+  }
+}
