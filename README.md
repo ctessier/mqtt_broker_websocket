@@ -13,4 +13,4 @@ MQTT Broker is now available through WebSocket at ws://localhost:3000.
 
 ## References
 
-* MQTT broker as an module : https://github.com/mcollina/mosca
+* MQTT broker as a module : https://github.com/mcollina/mosca
