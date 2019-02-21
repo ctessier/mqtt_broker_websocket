@@ -10,6 +10,6 @@
   "author": "Clément Tessier",
   "license": "ISC",
   "dependencies": {
-    "mosca": "^0.32.1"
+    "mosca": "^2.8.3"
   }
 }
